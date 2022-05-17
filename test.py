@@ -7,3 +7,4 @@ if event == 'hungry':
 
 elif event == 'thirsty':
     print("Drink water")
+    print("Drink Soda")
